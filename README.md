@@ -1,4 +1,4 @@
-I’m @afrozlopa.
+I’m afrozlopa.
 I’m interested in data science.
 I’m currently learning data analysis by python. 
 I’m looking to collaborate on data analysis.
